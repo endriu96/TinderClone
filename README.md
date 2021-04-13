@@ -1,2 +1,2 @@
 # TinderClone
-Project unfinished 
+Project  is unfinished.
